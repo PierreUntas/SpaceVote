@@ -1,2 +1,2 @@
 # SpaceVote
-Ethereum smart contract for voting system
+On-chain voting smart contract with automatic tie resolution through successive sessions. Solidity 0.8.30 + OpenZeppelin 
